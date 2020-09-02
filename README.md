@@ -20,3 +20,5 @@ https://public.tableau.com/profile/umang.mahant#!/vizhome/CafecoffeeNight/Story1
 * Identify the most popular combos that can be suggested to the restaurant chain after a thorough analysis of the most commonly occurring sets of menu items in the customer orders. The restaurant doesn’t have any combo meals. Can you suggest the best combo meals? 
 
 Check out the PPT presented to the owner for the insites of the data!
+
+![alt text](https://github.com/Umang1611/MarketingAnalyis_CafeCoffeeNight/blob/master/Busyhrs.png)
